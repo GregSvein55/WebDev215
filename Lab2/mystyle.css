@@ -1,0 +1,39 @@
+body{
+background-color: linen;
+}
+h2{
+    font-family: 'Times New Roman', Times, serif;
+}
+#p1{
+    background-color: #dddddd;
+    border: darkgreen;
+}
+
+tr.evenRow{
+    background: red;
+}
+ ol{
+     list-style-type: upper-roman;
+ }
+
+ table{
+     border-style: solid;
+     border-color: darkblue;  
+     text-align: center;
+ }
+
+ a:link {
+    color: blue;
+  }
+  
+  a:visited {
+    color: purple;
+  }
+
+  a:hover {
+    color: green;
+  }
+  
+  a:active {
+    color: lightblue;
+  }

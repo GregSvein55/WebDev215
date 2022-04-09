@@ -1,0 +1,26 @@
+Gregory Sveinbjornson
+200427591
+CS 215
+
+http://www2.cs.uregina.ca/~gds412/as1/recipelist.html
+http://www2.cs.uregina.ca/~gds412/as1/login.html
+
+login.html- Login page
+login.js and login-r.js - javascript for login.html
+signup.html- sign up page
+signup.js and signup-r.js - javascript for signup.html
+recipelist.html- home page for browsing recipes
+post.html- for posting recipes
+post.js and post-r.js - javascript for post.html
+details.html- for recipe details
+details.js and details-r.js - javascript for details.html
+recipestyle.css -stylesheet
+f1 f2 f3.jpg- food pictures
+
+
+click on "post a recipe" to get to post.html
+click on any of the recipes to get to details.html
+click on username in top right to get to login.html
+then from login, click on sign up to get to signup.html
+I include the url for login.html just to be safe
+

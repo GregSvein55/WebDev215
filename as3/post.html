@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Post Recipe</title>
+    <link rel="stylesheet" href="recipestyle.css">
+    <script type="text/javascript" src="post.js"></script>
+</head>
+<body>
+<header>
+    <h4><a href="http://www2.cs.uregina.ca/~gds412/as1/login.html" style="color: #C4C4C4;">@gds412</a></h4>
+    <h1>
+    Recipe #1
+    </h1>
+
+
+<h2><a href="http://www2.cs.uregina.ca/~gds412/as1/recipelist.html" style="color: black; padding: 5px;"  >Browse other recipes</a></h2>
+</header>
+
+<section>
+<article>
+    <form id="p">
+        <label for="title" id="msg_title"></label><br>
+        <label for="title">Title:</label><br>
+        <textarea id="title" name="title" onkeyup="charcount1(this.value)"></textarea><br>
+        <span id=charcount1></span><br>
+
+        <label for="ing" id="msg_ing"></label><br>
+        <label for="ing">Ingredients:</label><br>
+        <textarea id="ing" name="ing" onkeyup="charcount2(this.value)"></textarea><br>
+        <span id=charcount2></span><br>
+
+        <label for="ins" id="msg_ins"></label><br>
+        <label for="ins">Instructions:</label><br>
+        <textarea id="ins" name="ins" onkeyup="charcount3(this.value)"></textarea><br>
+        <span id=charcount3></span>
+        <br><br>
+        
+        <button type="submit" class="button button2" >Post</button>
+    </form>
+</article>
+
+</section>
+<footer>
+    <p>&copy; 2021 Greg Sveinbjornson</p>
+    </footer>
+    <script type="text/javascript" src="post-r.js"></script>
+</body>
+</html>

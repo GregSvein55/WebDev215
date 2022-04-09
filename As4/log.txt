@@ -1,0 +1,17 @@
+Gregory Sveinbjornson
+200427591
+CS215
+http://www2.cs.uregina.ca/~gds412/as1/login.php
+
+
+login.php- Login page
+login.js and login-r.js - javascript for login.php
+signup.php- sign up page
+signup.js and signup-r.js - javascript for signup.php
+recipelist.php- home page for browsing recipes
+post.php- for posting recipes
+post.js and post-r.js - javascript for post.php
+details.php- for recipe details
+details.js and details-r.js - javascript for details.php
+recipestyle.css -stylesheet
+f1 f2 f3.jpg- food pictures
