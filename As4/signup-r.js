@@ -1,1 +1,0 @@
-document.getElementById("fr").addEventListener("submit", SignUp, false);
